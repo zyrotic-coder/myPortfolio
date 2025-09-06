@@ -1,0 +1,30 @@
+{
+    "name": "Minayer",
+    "short_name": "Minayer",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "scope": "/",
+    "description": "At Minayer, we are devoted to curating a collection defined by distinction, refinement, and enduring excellence. Each piece is meticulously chosen to embody sophistication and superior craftsmanship, ensuring that our selection resonates with those who value timeless elegance.",
+    "icons": [
+        {
+            "src": "images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/icon-1024x1024.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
